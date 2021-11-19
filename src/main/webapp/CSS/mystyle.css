@@ -1,0 +1,19 @@
+.nav-link
+{
+	font-size: 18px;
+	border-radius: 18px;
+}
+.nav-item:hover .nav-link {
+	border-radius: 18px;
+	background-color: lightblue;
+	color: black;
+}
+body{
+	min-height: 100vh
+}
+.sticky-footer{
+	position: sticky;
+	
+	top: 100%;
+}
+
